@@ -11,6 +11,6 @@ Previously, Product - [Tiqets](https://www.tiqets.com/), Engineering - [Media.ne
 I like to make Software/Technology enabled Products. [Code](https://github.com/sitz).  
 I like to write about learnings. [Posts](https://medium.com/@shrivastavasitz).  
 I like to explore Cultures/Places via travelling. [31 countries](http://code.siteshshrivastava.com/TravelMap/).  
-I like to push Physical/Mental limits via Extreme sports or Intense activities. 
+I like to push Physical/Mental limits via Extreme sports or High intensity activities. 
 
 I am based out of [Amsterdam](https://en.wikipedia.org/wiki/Amsterdam), Netherlands.

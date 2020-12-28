@@ -7,7 +7,7 @@ publishDir = "docs"
 
 [languages]
     [languages.en.params]
-        description  = "Website Description" # Max 160 characters show in search results
+        description  = "Sitesh's home on the World Wide Web." # Max 160 characters show in search results
         footerText   = "2020 © Sitesh Shrivastava. <br /> All rights reserved." # Text to override default footer text (markdown allowed)
 
 [params]
