@@ -1,0 +1,72 @@
+baseURL = "http://siteshshrivastava.com"
+languageCode = "en-us"
+title = "Sitesh Shrivastava"
+theme = "introduction"
+googleAnalytics = "UA-72677434-1"
+publishDir = "docs"
+
+[languages]
+    [languages.en.params]
+        description  = "Website Description" # Max 160 characters show in search results
+        footerText   = "2020 © Sitesh Shrivastava. <br /> All rights reserved." # Text to override default footer text (markdown allowed)
+
+[params]
+    themeStyle = "auto" # Choose "light" or "dark" or "auto"
+    dateFormat = "Jan 1, 2021"
+    email = "siteshshrivastava@gmail.com"   # E-mail address for contact section
+
+    [params.home]
+        introHeight = "fullheight" # Input either "medium" or "large" or "fullheight"
+        localTime = true # Show your current local time in contact section
+        timeZone = "Europe/Amsterdam" # Your timezone as in the TZ* column of this list: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+        timeFormat = "en-US" # Language specific format to use
+
+
+    [[params.social]]
+        url = "mailto:siteshshrivastava@gmail.com"
+        icon = "paper-plane"
+        icon_pack = "fas"
+    [[params.social]]
+        url = "https://twitter.com/shrivastavasitz"
+        icon = "twitter"
+        icon_pack = "fab"
+    [[params.social]]
+        url = "https://medium.com/@shrivastavasitz"
+        icon = "medium-m"
+        icon_pack = "fab"
+    [[params.social]]
+        url = "https://www.linkedin.com/in/siteshshrivastava/"
+        icon = "linkedin-in"
+        icon_pack = "fab"
+    [[params.social]]
+        url = "https://github.com/sitz"
+        icon = "github"
+        icon_pack = "fab"
+    [[params.social]]
+        url = "https://facebook.com/SiteshShrivastava"
+        icon = "facebook-f"
+        icon_pack = "fab"
+    [[params.social]]
+        url = "https://instagram.com/shrivastavasitz"
+        icon = "instagram"
+        icon_pack = "fab"
+    [[params.social]]
+        url = "https://www.youtube.com/siteshshrivastava"
+        icon = "youtube"
+        icon_pack = "fab"
+    [[params.social]]
+        url = "https://goodreads.com/shrivastavasitz"
+        icon = "goodreads-g"
+        icon_pack = "fab"
+    [[params.social]]
+        url = "https://www.strava.com/athletes/6957072"
+        icon = "strava"
+        icon_pack = "fab"
+    [[params.social]]
+        url = "https://www.last.fm/user/shrivastavasitz"
+        icon = "lastfm"
+        icon_pack = "fab"
+    [[params.social]]
+        url = "https://trakt.tv/users/shrivastavasitz"
+        icon = "tv"
+        icon_pack = "fas"
