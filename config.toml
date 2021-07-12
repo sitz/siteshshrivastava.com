@@ -8,12 +8,12 @@ publishDir = "docs"
 [languages]
     [languages.en.params]
         description  = "Sitesh's home on the World Wide Web." # Max 160 characters show in search results
-        footerText   = "2020 © Sitesh Shrivastava. <br /> All rights reserved." # Text to override default footer text (markdown allowed)
+        footerText   = "2021 © Sitesh Shrivastava. <br /> All rights reserved." # Text to override default footer text (markdown allowed)
 
 [params]
     themeStyle = "auto" # Choose "light" or "dark" or "auto"
     dateFormat = "Jan 1, 2021"
-    email = "siteshshrivastava@gmail.com"   # E-mail address for contact section
+    email = "sitesh@siteshshrivastava.com"   # E-mail address for contact section
 
     [params.home]
         introHeight = "fullheight" # Input either "medium" or "large" or "fullheight"
@@ -23,7 +23,7 @@ publishDir = "docs"
 
 
     [[params.social]]
-        url = "mailto:siteshshrivastava@gmail.com"
+        url = "mailto:sitesh@siteshshrivastava.com"
         icon = "paper-plane"
         icon_pack = "fas"
     [[params.social]]
