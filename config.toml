@@ -8,7 +8,7 @@ publishDir = "docs"
 [languages]
     [languages.en.params]
         description  = "Sitesh's home on the World Wide Web." # Max 160 characters show in search results
-        footerText   = "2021 © Sitesh Shrivastava. <br /> All rights reserved." # Text to override default footer text (markdown allowed)
+        footerText   = "2022 © Sitesh Shrivastava. All rights reserved." # Text to override default footer text (markdown allowed)
 
 [params]
     themeStyle = "auto" # Choose "light" or "dark" or "auto"
@@ -23,20 +23,20 @@ publishDir = "docs"
 
 
     [[params.social]]
-        url = "mailto:sitesh@siteshshrivastava.com"
+        url = "https://t.me/siteshps"
         icon = "paper-plane"
         icon_pack = "fas"
     [[params.social]]
-        url = "https://twitter.com/shrivastavasitz"
+        url = "https://linkedin.com/in/siteshshrivastava/"
+        icon = "linkedin-in"
+        icon_pack = "fab"
+    [[params.social]]
+        url = "https://twitter.com/siteshps"
         icon = "twitter"
         icon_pack = "fab"
     [[params.social]]
-        url = "https://medium.com/@shrivastavasitz"
+        url = "https://medium.com/@siteshps"
         icon = "medium-m"
-        icon_pack = "fab"
-    [[params.social]]
-        url = "https://www.linkedin.com/in/siteshshrivastava/"
-        icon = "linkedin-in"
         icon_pack = "fab"
     [[params.social]]
         url = "https://github.com/sitz"
@@ -47,26 +47,26 @@ publishDir = "docs"
         icon = "facebook-f"
         icon_pack = "fab"
     [[params.social]]
-        url = "https://instagram.com/shrivastavasitz"
+        url = "https://instagram.com/siteshps"
         icon = "instagram"
         icon_pack = "fab"
     [[params.social]]
-        url = "https://www.youtube.com/siteshshrivastava"
+        url = "https://youtube.com/siteshshrivastava"
         icon = "youtube"
         icon_pack = "fab"
     [[params.social]]
-        url = "https://goodreads.com/shrivastavasitz"
+        url = "https://goodreads.com/siteshps"
         icon = "goodreads-g"
         icon_pack = "fab"
     [[params.social]]
-        url = "https://www.strava.com/athletes/6957072"
+        url = "https://strava.com/athletes/siteshps"
         icon = "strava"
         icon_pack = "fab"
     [[params.social]]
-        url = "https://www.last.fm/user/shrivastavasitz"
+        url = "https://last.fm/user/siteshps"
         icon = "lastfm"
         icon_pack = "fab"
     [[params.social]]
-        url = "https://trakt.tv/users/shrivastavasitz"
+        url = "https://trakt.tv/users/siteshps"
         icon = "tv"
         icon_pack = "fas"

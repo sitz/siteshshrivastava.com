@@ -5,11 +5,8 @@ image: "profile.jpg"
 
 I am **Sitesh Shrivastava**.
 
-Currently, I am founder of crypto hedge fund [Offbeat Capital](https://www.offbeat.capital).
+Currently, I am co-founder of crypto trading firm [Offbeat Capital](https://www.offbeat.capital), which applies delta-neutral strategies to provide 24x7 liquidity, removes market inefficiencies, and generates exceptional returns for our investors.
 
-Previously, Product - [Tiqets](https://www.tiqets.com/), Engineering - [Media.net](https://www.media.net), [Booking.com](https://www.booking.com), Quant - [iRageCapital](http://iragecapital.com) and few not-so-successful start-ups.
+Previously, Product - [Tiqets](https://tiqets.com), Engineering - [Media.net](https://media.net), [Booking.com](https://booking.com), Quant - [iRageCapital](http://iragecapital.com).
 
-I make software products that make people's lives better at scale - [Code](https://github.com/sitz).  
-I occasionally write about learnings - [Posts](https://medium.com/@shrivastavasitz).
-
-I am based out of [Amsterdam](https://en.wikipedia.org/wiki/Amsterdam), Netherlands.
+_If you are working on an interesting project and believe I can contribute, Please feel free to reach out._
