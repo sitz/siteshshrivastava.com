@@ -70,3 +70,7 @@ publishDir = "docs"
         url = "https://trakt.tv/users/siteshps"
         icon = "tv"
         icon_pack = "fas"
+    [[params.social]]
+        url = "https://couchsurfing.com/people/siteshps"
+        icon = "couch"
+        icon_pack = "fas"
