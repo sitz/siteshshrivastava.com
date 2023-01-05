@@ -8,11 +8,11 @@ publishDir = "docs"
 [languages]
     [languages.en.params]
         description  = "Sitesh's home on the World Wide Web." # Max 160 characters show in search results
-        footerText   = "2022 © Sitesh Shrivastava. All rights reserved." # Text to override default footer text (markdown allowed)
+        footerText   = "2023 © Sitesh Shrivastava. All rights reserved." # Text to override default footer text (markdown allowed)
 
 [params]
     themeStyle = "auto" # Choose "light" or "dark" or "auto"
-    dateFormat = "Jan 1, 2021"
+    dateFormat = "Jan 1, 2023"
     email = "sitesh@siteshshrivastava.com"   # E-mail address for contact section
 
     [params.home]
