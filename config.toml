@@ -23,32 +23,28 @@ publishDir = "docs"
 
 
     [[params.social]]
-        url = "https://t.me/siteshps"
-        icon = "paper-plane"
-        icon_pack = "fas"
+        url = "https://medium.com/@siteshps"
+        icon = "medium-m"
+        icon_pack = "fab"
     [[params.social]]
         url = "https://linkedin.com/in/siteshshrivastava/"
         icon = "linkedin-in"
-        icon_pack = "fab"
-    [[params.social]]
-        url = "https://twitter.com/siteshps"
-        icon = "twitter"
-        icon_pack = "fab"
-    [[params.social]]
-        url = "https://medium.com/@siteshps"
-        icon = "medium-m"
         icon_pack = "fab"
     [[params.social]]
         url = "https://github.com/sitz"
         icon = "github"
         icon_pack = "fab"
     [[params.social]]
-        url = "https://facebook.com/SiteshShrivastava"
-        icon = "facebook-f"
+        url = "https://twitter.com/siteshps"
+        icon = "twitter"
         icon_pack = "fab"
     [[params.social]]
         url = "https://instagram.com/siteshps"
         icon = "instagram"
+        icon_pack = "fab"
+    [[params.social]]
+        url = "https://facebook.com/SiteshShrivastava"
+        icon = "facebook-f"
         icon_pack = "fab"
     [[params.social]]
         url = "https://youtube.com/siteshshrivastava"
@@ -69,8 +65,4 @@ publishDir = "docs"
     [[params.social]]
         url = "https://trakt.tv/users/siteshps"
         icon = "tv"
-        icon_pack = "fas"
-    [[params.social]]
-        url = "https://couchsurfing.com/people/siteshps"
-        icon = "couch"
         icon_pack = "fas"
