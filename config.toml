@@ -18,13 +18,12 @@ publishDir = "docs"
     [params.home]
         introHeight = "fullheight" # Input either "medium" or "large" or "fullheight"
         localTime = true # Show your current local time in contact section
-        timeZone = "Europe/Amsterdam" # Your timezone as in the TZ* column of this list: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+        timeZone = "US/Pacific" # Your timezone as in the TZ* column of this list: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
         timeFormat = "en-US" # Language specific format to use
 
-
     [[params.social]]
-        url = "https://medium.com/@siteshps"
-        icon = "medium-m"
+        url = "https://twitter.com/siteshps"
+        icon = "twitter"
         icon_pack = "fab"
     [[params.social]]
         url = "https://linkedin.com/in/siteshshrivastava/"
@@ -35,8 +34,8 @@ publishDir = "docs"
         icon = "github"
         icon_pack = "fab"
     [[params.social]]
-        url = "https://twitter.com/siteshps"
-        icon = "twitter"
+        url = "https://medium.com/@siteshps"
+        icon = "medium-m"
         icon_pack = "fab"
     [[params.social]]
         url = "https://instagram.com/siteshps"
